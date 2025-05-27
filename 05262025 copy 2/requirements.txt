@@ -1,0 +1,6 @@
+numpy
+mido
+python-rtmidi
+midiutil
+flask
+tkinter
